@@ -1,0 +1,6 @@
+{
+  "name": "W Bank",
+  "description": "Premium digital banking simulation application featuring Clean Architecture, Room Database persistence, real-time input validation, and secure transactions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
